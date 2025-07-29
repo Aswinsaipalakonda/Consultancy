@@ -9,3 +9,4 @@
 - ✅ Interactive Home Page with clear CTAs
 - ✅ Information on Top Study Destinations (Canada, UK, USA, Germany, Australia, etc.)
 - ✅ Detailed Courses and Program Listings
+- ✅ List of Professional Services (Visa Guidance, SOP/LOR Help, Profile Evaluation, etc.)
