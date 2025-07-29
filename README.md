@@ -7,3 +7,4 @@
 ## 📌 Features
 
 - ✅ Interactive Home Page with clear CTAs
+- ✅ Information on Top Study Destinations (Canada, UK, USA, Germany, Australia, etc.)
