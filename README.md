@@ -17,4 +17,4 @@
 - ✅ Free Counseling Booking Form
 - ✅ Mobile-Responsive UI with Clean Navigation
 
-vallaki  same kavali first 
+vallaki  same kavali 
